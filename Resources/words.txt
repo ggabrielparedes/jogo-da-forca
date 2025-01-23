@@ -1,0 +1,13 @@
+elipse
+esfera
+cubo
+esferoide
+quadrado
+triangulo
+semicirculo
+esfera
+tetraedro
+romboide
+retangulo
+estrela
+cone
