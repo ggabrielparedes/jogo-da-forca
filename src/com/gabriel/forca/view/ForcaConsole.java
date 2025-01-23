@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 public class ForcaConsole {
     private final ForcaServices forcaServices = new ForcaServices();
-    private Scanner scanner = new Scanner(System.in);
+    private final Scanner scanner = new Scanner(System.in);
     public static void drawBody(int lives) {
         switch (lives) {
             case 1:
