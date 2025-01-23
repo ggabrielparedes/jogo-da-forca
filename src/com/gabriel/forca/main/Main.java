@@ -1,6 +1,5 @@
 package com.gabriel.forca.main;
 
-import com.gabriel.forca.forca.Forca;
 import com.gabriel.forca.view.ForcaConsole;
 
 import java.util.Scanner;
